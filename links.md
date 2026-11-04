@@ -1,10 +1,9 @@
-https://www.tinkercad.com/things/40AYsYLgT2l-iiot-practical-1
+https://www.tinkercad.com/things/2rS8XxwFnuW-copy-of-temp-sensor
 
-https://www.tinkercad.com/things/5M0rCDBsGc3-iiot-practical-2
+https://www.tinkercad.com/things/lg98pCoeevC-pir-sensor?sharecode=flc_7_jI0LjbnTWFkOJ66WukWvnJgZvgtaoHWEGU4Ao
 
+https://www.tinkercad.com/things/hjX2OUHw26s-smart-home-energy-management?sharecode=dvWMqfrBROa-sUnW7YKNPa7fjHNuTSwDb33y52y1kyw
 
-https://www.tinkercad.com/things/a8385wvRufU-epic-waasa
+https://www.tinkercad.com/things/bXuMpUeV2S0-industrial-safety-monitoring-using-iot-
 
-https://www.tinkercad.com/things/kiEej8XI60E-copy-of-industrial-safety-monitoring-using-iot-
-
-https://www.tinkercad.com/things/j2apWDGRrv4-copy-of-car-parking-system
+https://www.tinkercad.com/things/ezecDAE5xwy-car-parking-system?sharecode=t4oeomfR8LsG0Th0rDcN3I_Cw5Pc7IqjE1EFeb50IdE
